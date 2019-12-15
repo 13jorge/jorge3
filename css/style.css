@@ -75,7 +75,7 @@ label span:hover{
 }
 
 .jack{
-    background-image: url(/images/jack.png);
+    background-image: url(/images/Jack.png);
     background-size: cover;
     width: 400px;
     height: 600px;
@@ -84,7 +84,7 @@ label span:hover{
     float: left;
   }
 .jack:hover{
-  background-image: url(/images/jack2.png);
+  background-image: url(/images/Jack2.png);
 }
 
 .apex{
